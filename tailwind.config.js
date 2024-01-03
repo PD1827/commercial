@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('file:///C:/Users/pparagde/React/dashboard/src/data/welcome-bg.svg')",
+          "url('file:/C:/Users/pparagde/React/dashboard/src/data/welcome-bg.svg')",
       },
     },
   },
