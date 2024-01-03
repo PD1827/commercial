@@ -38,10 +38,6 @@ module.exports = {
       minHeight: {
         590: '590px',
       },
-      backgroundImage: {
-        'hero-pattern':
-          "url('file:/C:/Users/pparagde/React/dashboard/src/data/welcome-bg.svg')",
-      },
     },
   },
   plugins: [],
